@@ -36,3 +36,12 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+#ignore
+.idea
+target/classes
+target/generated-sources
+target/generated-test-sources
+target/maven-status
+target/test-classes
+.build
